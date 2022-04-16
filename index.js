@@ -15,12 +15,6 @@ function newTask(title, description) {
   return task;
 }
 
-
-
-
-
-
-
 // DRIVER CODE BELOW
 
 
